@@ -1,6 +1,6 @@
 # Benchmark_CITEseq_DOGMAseq
 
-This repository contains all code needed to reproduce all analyses:
+This repository contains all code used for all analyses:
 
 **Comprehensive benchmarking of CITE-seq versus DOGMA-seq single cell multimodal omics**
 
