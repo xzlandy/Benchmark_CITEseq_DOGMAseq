@@ -6,6 +6,8 @@ This repository contains all code used for all analyses:
 
 Zhongli Xu, Elisa Heidrich-O’Hare, Wei Chen, Richard H. Duerr
 
+![](study_design.pdf)
+
 # Codes
 
 The codes for the comparison between DIG and LLL conditions are stored under the folder **DIG_LLL**. The codes for the comparison between CITE-seq and DOGMA-seq are stored under the folder **DOGMA_CITE**.
