@@ -8,11 +8,11 @@ Zhongli Xu, Elisa Heidrich-O’Hare, Wei Chen, Richard H. Duerr
 
 # Codes
 
-The codes for the comparison between DIG and LLL conditions are stored under the folder DIG_LLL. The codes for the comparison between CITE-seq and DOGMA-seq are stored under the folder DOGMA_CITE.
+The codes for the comparison between DIG and LLL conditions are stored under the folder **DIG_LLL**. The codes for the comparison between CITE-seq and DOGMA-seq are stored under the folder **DOGMA_CITE**.
 
 # Data
 
-The raw and processed data of CITE-seq and DOGMA-seq, including 8 samples for CITE-seq and 16 samples for DOGMA-seq, are deposited in Gene Expression Omnibus (GEO) (GSE200417).
+The raw and processed data of CITE-seq and DOGMA-seq, including 8 samples for CITE-seq and 16 samples for DOGMA-seq, are deposited in Gene Expression Omnibus (GEO) (**GSE200417**).
 
 # Questions
 
