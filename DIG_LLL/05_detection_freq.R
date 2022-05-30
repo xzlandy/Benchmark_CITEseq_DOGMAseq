@@ -3,7 +3,7 @@ library(BuenColors)
 library(data.table)
 library(dplyr)
 
-setwd('~/RWorkSpace_local/CITE-seq/Duerr/DOGMA-seq/DIG_LLL/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_LLL/code/')
 
 load("../data/DIG_data.RData")
 dig <- data

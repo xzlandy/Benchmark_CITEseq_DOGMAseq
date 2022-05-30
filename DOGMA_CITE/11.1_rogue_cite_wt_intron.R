@@ -10,7 +10,7 @@ library(parallel)
 library(cowplot)
 library(ggplot2)
 
-setwd('~/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
 
 load('../data/CITE_data_wt_intron.RData')
 data$orig.ident <- 'CITE'

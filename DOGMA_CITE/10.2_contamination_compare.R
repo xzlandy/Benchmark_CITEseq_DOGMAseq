@@ -6,7 +6,7 @@ library(stringr)
 library(harmony)
 library(BuenColors)
 
-setwd('~/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
 
 dig <- read.csv('../output/dig_harmony_predicted_chrom_contamination.csv')
 cite <- read.csv('../output/cite_harmony_predicted_chrom_contamination.csv')

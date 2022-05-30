@@ -3,7 +3,7 @@ library(data.table)
 library(stringr)
 library(BuenColors)
 
-setwd('~/RWorkSpace_local/CITE-seq/Duerr/DOGMA-seq/DIG_LLL/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_LLL/code/')
 
 source('../../global_functions/estimateLibraryComplexity.R')
 

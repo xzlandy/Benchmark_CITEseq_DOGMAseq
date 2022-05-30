@@ -11,7 +11,7 @@ library(cowplot)
 library(ggrepel)
 library(patchwork)
 
-setwd('~/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
 
 draw_plot <- function(path1, path2){
   dig <- readRDS(path1)

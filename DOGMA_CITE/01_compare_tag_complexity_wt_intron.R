@@ -4,7 +4,7 @@ library(dplyr)
 library(data.table)
 library(stringr)
 
-setwd('~/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
 
 # Assign the bus set to the corresponding 
 process_tag_reference <- function(ref_file){

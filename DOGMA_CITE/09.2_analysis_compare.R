@@ -5,7 +5,7 @@ library(data.table)
 library(stringr)
 library(harmony)
 
-setwd('~/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
 
 dig <- read.csv('../plots/harmony/dig_predicted.csv')
 cite <- read.csv('../plots/harmony/cite_predicted.csv')

@@ -8,7 +8,7 @@ library(celda)
 library(SingleCellExperiment)
 library(ggplot2)
 
-setwd('~/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
 
 load('../output/dig_harmony_independent_predicted_chrom.RData')
 

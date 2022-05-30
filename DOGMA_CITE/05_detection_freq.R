@@ -4,7 +4,7 @@ library(data.table)
 library(dplyr)
 library(stringr)
 
-setwd('~/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
 
 load("../data/DIG_data.RData")
 dig <- data

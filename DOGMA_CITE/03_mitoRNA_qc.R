@@ -3,7 +3,7 @@ library(BuenColors)
 library(dplyr)
 library(stringr)
 
-setwd('~/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_CITE_rerun_1/code/')
 
 # the 10x hdf5 file contains both data types. 
 import_pctMT_RNAseq <- function(file, condition, what){

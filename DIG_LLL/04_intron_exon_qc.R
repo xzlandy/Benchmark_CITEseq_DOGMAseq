@@ -3,7 +3,7 @@ library(BuenColors)
 library(data.table)
 library(dplyr)
 
-setwd('~/RWorkSpace_local/CITE-seq/Duerr/DOGMA-seq/DIG_LLL/code/')
+setwd('~/RWorkSpace/CITE-seq/Duerr/DOGMA-seq/DIG_LLL/code/')
 
 # the 10x hdf5 file contains both data types. 
 import_pctMT_exon_RNAseq <- function(file,qc_file,  condition, what){
